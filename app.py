@@ -19,7 +19,7 @@ if build_histograma: # se a caixa de seleção for selecionada
     st.plotly_chart(fig, use_container_width=True)
 
 # criar uma caixa de seleção para o gráfico de dispersão
-build_scatter = st.checbox('Criar um gráfico de dispersão')
+build_scatter = st.checkbox('Criar um gráfico de dispersão')
 
 if build_scatter: # se a caixa de seleção for selecionada
     # escrever uma mensagem
