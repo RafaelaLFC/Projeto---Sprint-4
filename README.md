@@ -33,3 +33,7 @@ Depois, abra no navegador o endereço que aparecer no terminal.
 ## Deploy no Render
 
 O arquivo .streamlit/config.toml configura o Streamlit para rodar no Render (modo headless e porta 10000).
+
+## URL de Acesso
+
+Para acessar esse projeto click no link a seguir https://projeto-sprint-4-2.onrender.com/
